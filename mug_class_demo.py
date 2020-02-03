@@ -16,7 +16,7 @@ from mug import Mug
     
 print('Class mug test')
 #'Create an object of class mug - mymug, holds a maximun of 350ml and has a picture of a blue bird'
-mymug=mug(350,'Blue Bird')
+mymug=Mug(350,'Blue Bird')
 # Fill mymug
 mymug.fill(300,'hot chocolate')
 # Check mymug
